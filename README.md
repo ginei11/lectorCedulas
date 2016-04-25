@@ -1,11 +1,12 @@
 # lectorCedulas
+
 Modulo para la lectura del codigo de barras de cédulas colombianas PDF417
 
 Este proyecto hace uso de las apis de google para la lectura de los codigos de barras
 
 ### Implementación
 
-Importar el modulo barcode
+Importar el modulo de este proyecto barcode
 
 
 ```sh
