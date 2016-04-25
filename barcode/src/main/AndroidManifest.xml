@@ -1,0 +1,21 @@
+<manifest package="com.barcode"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-feature android:name="android.hardware.camera" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat">
+
+    </application>
+
+    <activity android:name="com.barcode.BarcodeCaptureActivity"
+              android:label ="@string/camaraActivity"/>
+
+
+</manifest>

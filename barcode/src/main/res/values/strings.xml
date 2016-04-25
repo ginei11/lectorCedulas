@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Labels-->
+    <string name="app_name">Lector cedulas</string>
+    <string name="camaraActivity">Camara</string>
+
+    <string name="help">Presionar para capturar,estirar para realizar zoom</string>
+
+    <string name="ok">OK</string>
+    <string name="permission_camera_rationale">Acceso a la camara es necesario para la deteccion</string>
+    <string name="no_camera_permission">Esta aplicacion no puede funcionar si no tiene acceso a la camara. La aplicacion se cerrara.</string>
+    <string name="low_storage_error">Depencias no pueden ser descargadas por poco espacio en la memoria</string>
+    <string name="title_activity_main">Lector de codigo de barras</string>
+    <string name="barcode_header">Click &quot;en Barcode&quot; para leer un codigo de barras</string>
+    <string name="read_barcode">Lector de codigo de barras</string>
+    <string name="auto_focus">Auto Focus</string>
+    <string name="use_flash">Usar Flash</string>
+    <string name="barcode_success">Codigo de barras leido satisfactoriamente</string>
+    <string name="barcode_failure">No codigo de barras capturado</string>
+    <string name="barcode_error">"Error leyendo el codigo de barras: %1$s"</string>
+</resources>
